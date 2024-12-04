@@ -1,4 +1,4 @@
-# Evaluación de los escenarios de Cambio Climatico en los Oceànos con CMIP6
+# Escenarios de Cambio Climatico en los Oceònos con CMIP6
 
 ## Fase 1: Definición del Estudio
 
